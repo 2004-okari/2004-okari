@@ -21,10 +21,87 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=2004-okari&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+### Resume 🛠️
+<!--
+Welcome to resume.lol !
 
----
-[![](https://visitcount.itsvg.in/api?id=2004-okari&icon=6&color=5)](https://visitcount.itsvg.in)
+This is the template you can use to get started.
+
+More documentation can be found in the docs section
+>>> https://resume.lol/docs
+-->
+@REDACTED=false
+@NAME=Okari Nyandika
+@EMAIL=nyandika15@icloud.com
+@PHONE=(+254) 794152249
+@LOCATION=Nairobi, Kenya
+@WEBSITE=https://2004-okari.github.io/MY-PORTFOLIO/
+
+# {NAME}
+
+<div class="section headerInfo">
+
+- {EMAIL}
+- {PHONE}
+- [{WEBSITE}](https://{WEBSITE})
+- {LOCATION}
+
+</div>
+
+## Experience
+
+
+### Code Reviewer, Microverse <span class="spacer"></span> 2023
+
+- Did code reviews for students in a later cohort
+<!-- Older resume bits can be commented out so that you can keep the info without deleting it -->
+
+<!-- ### <span>Software Engineering Intern, Google</span> <span>Mar 2017 &mdash; Sept 2017</span>
+
+### <span>Software Engineering Intern, Curalate</span> <span>June 2016 &mdash; Sept 2016</span> -->
+
+## Education
+
+### Microverse Academy, Full-Stack development, Bachelors of Science <span class="spacer"></span> 2023
+
+- Front-end development with React & backend with Ruby/Ruby on rails
+- Project based curriculum with reflection of real-world situations
+- Code reviewing, Stand-up meetings, morning session and regular meetings with learning patners.
+
+### University of Nairobi, Computer Science, Bachelors of Science <span class="spacer"></span>  2023 &mdash; 2027
+
+- Currently pursuing
+
+### Codeacademy, Front-end development<span class="spacer"></span> 2023
+
+- Certificate for the Front-end curriculum proving completion and understandin of the course work
+- Certificate for completion of React-Native course work
+
+## Current Projects
+
+### Front-end development
+- Todo App that is based on local storage to help you carry on with day-to-day tasks seamlessly 
+- Bookstore app based on local storage that makes you to account for read books
+- Tip calculator to help ease calculation of tips to award workers without much struggling
+- Github profile search app based on Github API to help stalk for github users with ease
+- Football info page that shows details about Premier League teams. Based on SportyDB API
+- Calculator app with different pages(Home page, Calculator page, Quote generator page)
+- React application that fetches data about spaceships and allows for joining space missions and booking of spaceships
+- Landing page for a developers summit, Webforlio, Learderboard page to store players score
+
+### Cross platform mobile development
+- Food recipe app that fetches meals from an API and displays the ingredients, procedure and video preview
+- Chat app that is based on Firebase(authentication, storage, Firestore) that has real-time chatting functionalities
+
+## Skills
+
+- Code: React + hooks, NextJS, Javascript, NodeJS, CSS, styled-components, React Native, HTML/CSS, Ruby, Ruby on Rails, 
+- Tools:  Jest, Shell, Tailwind, PostgreSQL, Firebase, Netlify, Postman, React Testing Library, Webpack, GitHub or GitLab, Babel
+
+## Achievements
+
+- Youngest graduate from the Microverse Academy
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
