@@ -51,15 +51,6 @@ More documentation can be found in the docs section
 ## Experience
 
 
-### Code Reviewer, Microverse <span class="spacer"></span> 2023
-
-- Did code reviews for students in a later cohort
-<!-- Older resume bits can be commented out so that you can keep the info without deleting it -->
-
-<!-- ### <span>Software Engineering Intern, Google</span> <span>Mar 2017 &mdash; Sept 2017</span>
-
-### <span>Software Engineering Intern, Curalate</span> <span>June 2016 &mdash; Sept 2016</span> -->
-
 ## Education
 
 ### Microverse Academy, Full-Stack development, Bachelors of Science <span class="spacer"></span> 2023
