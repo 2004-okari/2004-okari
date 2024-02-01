@@ -91,7 +91,6 @@ More documentation can be found in the docs section
 
 ## Achievements
 
-- Youngest graduate from the Microverse Academy
 
 
 
